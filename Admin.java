@@ -26,6 +26,10 @@ public class Admin {
 
   private String level;   //级别
 
+  public static void main(String[] args) {
 
+        System.out.println("hello world");
+
+    }
 
 }
